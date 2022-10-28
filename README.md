@@ -29,7 +29,7 @@
 
 ## Adoro tecnologia, porém amo ajudar as pessoas sem alguma troca. Me sinto bem assim. E procuro uma oportunidade de Dev Back End Junior.
 
-##vÚtimos posts do meu blog e no LinkedIn
+## Útimos posts do meu blog e no LinkedIn
 - [Último post do Blog](https://medium.com/@lgomesroc/at%C3%A9-que-enfim-programa%C3%A7%C3%A3o-63ed3a1fa71b)</br>
 - [Penúltimo post do Blog](https://medium.com/@lgomesroc/operadores-l%C3%B3gicos-74538b932689)</br>
 - [Último post no LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6990139600669171712/)</br>

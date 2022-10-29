@@ -35,5 +35,5 @@
 ## Útimos posts do meu blog e no LinkedIn
 - [Último post do Blog](https://medium.com/@lgomesroc/at%C3%A9-que-enfim-programa%C3%A7%C3%A3o-63ed3a1fa71b)</br>
 - [Penúltimo post do Blog](https://medium.com/@lgomesroc/operadores-l%C3%B3gicos-74538b932689)</br>
-- [Último post no LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6990139600669171712/)</br>
-- [Penúltimo post no LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6989762253734481920/)</br>
+- [Último post no LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6991899370623250432/)</br>
+- [Penúltimo post no LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6991163684186152960/)</br>

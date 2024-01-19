@@ -22,7 +22,7 @@
 </div></br>
 
 
-## Adoro tecnologia, porém amo ajudar as pessoas sem alguma troca. Me sinto bem assim. E procuro uma oportunidade de Dev Back End Junior.
+## Adoro tecnologia, porém amo ajudar as pessoas sem alguma troca. Me sinto bem assim. E procuro uma oportunidade de Dev Back End Junior ou estagiário back end.
 
-## Útimos posts do meu blog e no LinkedIn
+## Link para a minha newsletter no LinkedIn que se chama "Assuntos de Programação".
 - [Lista de artigos na newsletter Assuntos de Programação no LinkedIn]((https://www.linkedin.com/newsletters/assuntos-de-programa%C3%A7%C3%A3o-7002440821278953472/))</br>

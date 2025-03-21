@@ -1,4 +1,4 @@
-### Olá, sou o Luciano Gomes, seja bem-vindo ao meu Github e aos meus repositórios. 👋
+### Olá, sou o Luciano Rocha, seja bem-vindo ao meu Github e aos meus repositórios. 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lgomesroc/)
 

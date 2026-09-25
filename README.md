@@ -1,18 +1,18 @@
 # Luciano Rocha
 
-### Desenvolvedor Backend | C#/.NET | APIs REST | Desenvolvimento Web
+### Desenvolvedor Backend | C#/.NET | APIs REST | Software Development
 
-Desenvolvedor de software com foco em **backend**, trabalhando principalmente com **C# e .NET** e construindo APIs e aplicações web.
+Desenvolvedor de software com foco em **backend**, principalmente com **C# e .NET**.
 
-Tenho interesse em desenvolvimento de sistemas, arquitetura de software, bancos de dados, integração entre serviços, testes automatizados e boas práticas de engenharia.
+Meu foco está em transformar requisitos e problemas de negócio em software funcional, trabalhando com **APIs REST, regras de negócio, persistência de dados, integração entre sistemas, testes e boas práticas de desenvolvimento**.
 
-Além do desenvolvimento, mantenho projetos próprios para transformar conhecimento em software executável — da implementação da regra de negócio ao banco de dados, testes, containerização e deploy.
+Também desenvolvo projetos próprios para colocar esses conceitos em prática — do desenho da solução até banco de dados, testes, Docker, CI/CD e deploy.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/lgomesroc/)
 
 ---
 
-## 🛠️ Stack
+## 💻 Tecnologias
 
 ### Backend
 
@@ -42,87 +42,87 @@ Além do desenvolvimento, mantenho projetos próprios para transformar conhecime
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </div>
 
-### DevOps, Cloud & Ferramentas
+### DevOps & Cloud
 
 <div>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
 ---
 
-## 🚀 Projetos em destaque
+# 🚀 Projetos em destaque
 
-### 🚌 BusTrack
+## 🚌 BusTrack
 
-Sistema para gerenciamento de operações relacionadas a transporte coletivo.
+**Sistema de gerenciamento de operações de transporte.**
 
-**Stack:** C#, .NET, Angular, MongoDB, Docker
+Projeto full stack desenvolvido para trabalhar problemas próximos de um sistema real, incluindo **regras de negócio, APIs REST, autenticação, persistência de dados e integração entre frontend e backend**.
 
-Projeto desenvolvido para trabalhar conceitos de:
+**Tecnologias:** C# · .NET · Angular · MongoDB · Docker
 
-* APIs REST
-* regras de negócio
-* autenticação e autorização
-* persistência de dados
-* integração entre frontend e backend
-* containerização
-* deploy
-* organização e manutenção de código
-
-👉 [Ver projeto no GitHub](https://github.com/lgomesroc/BusTrack)
-
-### ☁️ Cloud Energy Monitor
-
-Projeto voltado ao monitoramento de consumo e custos de recursos em cloud.
-
-**Stack:** TypeScript, Node.js, Express, AWS, DynamoDB, CDK
-
-O projeto explora integração com serviços AWS, testes automatizados, infraestrutura como código e pipelines de CI.
-
-👉 [Ver projeto no GitHub](https://github.com/lgomesroc/cloud-energy-monitor)
-
-### 📁 FileDock
-
-Sistema de gerenciamento de documentos desenvolvido com Java e Spring Boot.
-
-**Stack:** Java, Spring Boot, Spring Batch, PostgreSQL, Maven, Tomcat
-
-Projeto focado em processamento, persistência de documentos, APIs e execução em ambiente com servidor Tomcat.
-
-👉 [Ver projeto no GitHub](https://github.com/lgomesroc/FileDock)
+[→ Ver repositório](https://github.com/lgomesroc/BusTrack)
 
 ---
 
-## 📚 O que estudo e pratico
+## ☁️ Cloud Energy Monitor
 
-* Desenvolvimento de APIs REST
+**Monitoramento de consumo e custos de recursos em cloud.**
+
+Projeto desenvolvido para explorar integração com serviços AWS, processamento de dados, testes automatizados e infraestrutura como código.
+
+**Tecnologias:** TypeScript · Node.js · Express · AWS · DynamoDB · CDK
+
+[→ Ver repositório](https://github.com/lgomesroc/cloud-energy-monitor)
+
+---
+
+## 📁 FileDock
+
+**Sistema de gerenciamento e processamento de documentos.**
+
+Projeto desenvolvido com Java e Spring Boot, explorando processamento de arquivos, persistência de dados, validação e execução em ambiente Tomcat.
+
+**Tecnologias:** Java · Spring Boot · Spring Batch · PostgreSQL · Maven · Tomcat
+
+[→ Ver repositório](https://github.com/lgomesroc/FileDock)
+
+---
+
+# 🧠 Desenvolvimento de software
+
+Além das tecnologias, tenho interesse especialmente em:
+
 * Orientação a objetos
-* SOLID e princípios de design
+* SOLID
 * Clean Code
+* Coesão e acoplamento
+* Design de APIs
+* Regras de negócio
+* Persistência e modelagem de dados
 * Testes automatizados
-* Banco de dados SQL e NoSQL
-* Docker e containerização
-* CI/CD
-* Cloud Computing
-* Arquitetura e integração de sistemas
-* Git e GitHub
-* Boas práticas de desenvolvimento
+* Integração entre sistemas
+* Docker e CI/CD
+* Arquitetura de software
+
+A ideia não é apenas fazer o código funcionar, mas entender **por que a solução foi construída daquela forma e quais problemas ela resolve**.
 
 ---
 
-## ✍️ Escrevo sobre programação
+# ✍️ Assuntos de Programação
 
-Também mantenho a newsletter **Assuntos de Programação**, no LinkedIn, onde publico conteúdos sobre desenvolvimento de software, programação e engenharia de software.
+Também escrevo sobre desenvolvimento de software na newsletter **Assuntos de Programação**, publicada no LinkedIn.
 
-👉 [Acessar a newsletter Assuntos de Programação](https://www.linkedin.com/newsletters/assuntos-de-programa%C3%A7%C3%A3o-7002440821278953472/)
+Os conteúdos abordam programação, engenharia de software, conceitos de orientação a objetos, boas práticas e problemas que aparecem no desenvolvimento de sistemas.
+
+[→ Acessar a newsletter](https://www.linkedin.com/newsletters/assuntos-de-programa%C3%A7%C3%A3o-7002440821278953472/)
 
 ---
 
-## 📊 GitHub
+# 📈 GitHub
 
 ![Luciano Rocha GitHub stats](https://github-readme-stats.vercel.app/api?username=lgomesroc\&show_icons=true\&theme=onedark)
 
@@ -130,6 +130,4 @@ Também mantenho a newsletter **Assuntos de Programação**, no LinkedIn, onde p
 
 ---
 
-### Em constante evolução
-
-Este perfil reúne projetos, experimentos e estudos que utilizo para transformar conhecimento em prática e continuar evoluindo como desenvolvedor.
+> **Código é consequência. Antes dele existe um problema que precisa ser entendido e resolvido.**
